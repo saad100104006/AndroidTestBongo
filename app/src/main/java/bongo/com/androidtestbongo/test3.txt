@@ -48,3 +48,5 @@ these three functionalities.
 	}
 	  
 }
+
+I will be using facade design pattern to build this entire application
